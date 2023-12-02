@@ -1,1 +1,1 @@
-# MyLogs
+# samlogs
