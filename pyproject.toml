@@ -12,6 +12,7 @@ torch = "^2.5.1"
 torchvision = "^0.20.1"
 matplotlib = "^3.10.0"
 pandas = "^2.2.3"
+tensorboard = "^2.18.0"
 
 
 [tool.poetry.group.dev.dependencies]
