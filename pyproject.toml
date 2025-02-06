@@ -13,6 +13,7 @@ torchvision = "^0.20.1"
 matplotlib = "^3.10.0"
 pandas = "^2.2.3"
 tensorboard = "^2.18.0"
+tqdm = "^4.67.1"
 
 
 [tool.poetry.group.dev.dependencies]
