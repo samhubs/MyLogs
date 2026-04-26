@@ -6,8 +6,16 @@ nav:
   - Home: index.md
   - Posts:
       - Overview: posts/index.md
-      - Monocular depth for real-world measurement: posts/2025-01-24-monocular-depth-for-measurement.md
-      - Are you __init__ or not?: posts/2025-01-21-init-or-not.md
+      - Publishing Guide: posts/publishing-guide.md
+      - 100 Days of Research:
+          - Overview: posts/research-100/index.md
+          - "Day 001: Paper Implementation Template": posts/research-100/001-paper-implementation-template.md
+      - Technical Notes:
+          - Overview: posts/technical-notes/index.md
+          - Monocular depth for real-world measurement: posts/technical-notes/monocular-depth-measurement.md
+          - Are you __init__ or not?: posts/technical-notes/python-init-or-not.md
+      - Short Stories:
+          - Overview: posts/short-stories/index.md
   - About: about.md
 
 theme:
